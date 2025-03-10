@@ -1,7 +1,11 @@
 DEMO:
 [https://rec-client-frontend.vercel.app/]
+
+
 WORKING:
+
 Main Features
+
 1 ✅ User Login – Sign up and log in using email or Google. ✅ Recipe Management – Users can add, edit, delete, and share recipes. ✅ Live Updates – Any changes to recipes update instantly. ✅ Upload Images & Videos – Store media using Cloudinary or AWS S3.
 
 2 Frontend (React.js) ✅ Easy Search & Filters – Find recipes by ingredients, cuisine, or difficulty. ✅ Step-by-Step Cooking Guide – Show images/videos for each step. ✅ Mobile-Friendly Design – Works smoothly on all devices.
